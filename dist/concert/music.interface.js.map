@@ -1,0 +1,1 @@
+{"version":3,"file":"music.interface.js","sourceRoot":"","sources":["../../src/concert/music.interface.ts"],"names":[],"mappings":";;;AAAA,MAAa,cAAc;IAMvB,YAAY,EAAU,EAAE,MAAc,EAAE,IAAY,EAAE,IAAU;QAC5D,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;QACb,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;QACrB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;IACrB,CAAC;CAGJ;AAdD,wCAcC"}

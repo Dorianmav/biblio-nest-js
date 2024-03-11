@@ -1,0 +1,1 @@
+{"version":3,"file":"manga.interface.js","sourceRoot":"","sources":["../../src/manga/manga.interface.ts"],"names":[],"mappings":";;;AAAA,MAAa,cAAc;IAMvB,YAAY,EAAU,EAAE,IAAY,EAAE,MAAc,EAAE,QAAgB;QAClE,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;QACb,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;QACrB,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;IAC7B,CAAC;CACJ;AAZD,wCAYC"}
